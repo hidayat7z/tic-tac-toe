@@ -1,3 +1,10 @@
+
+<p align="center"> 
+  <h1> Snapshot of the Tic Tac Toe Game </h1>
+    <img src="tictactoe.png" align="center"></img>
+</p>
+=======
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
